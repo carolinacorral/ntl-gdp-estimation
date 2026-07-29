@@ -4,7 +4,7 @@ Code and notebooks for estimating Mexican municipality-level GDP using VIIRS nig
 
 This repository accompanies the chapter:
 
-**Corral, Carolina; García, Claudia; and Lopez, Jesús Manuel.**  
+**García, Claudia; Corral, Carolina; and Lopez, Jesús Manuel.**  
 *Predictive Model to Estimate the Economic Activity of Mexican Municipalities Using Night Lights*  
 In *Quantitative Finance Programming: Models, Methods, and Business Applications* (IGI Global, 2027).  
 DOI: [`10.4018/979-8-3373-8372-9.ch011`](https://doi.org/10.4018/979-8-3373-8372-9.ch011)
